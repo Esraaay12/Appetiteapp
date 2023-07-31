@@ -1,2 +1,3 @@
 # Appetiteapp
-app designed to check nearby resturants 
+js app designed to check nearby resturants .
+
